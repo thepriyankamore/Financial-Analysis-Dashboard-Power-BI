@@ -5,7 +5,7 @@ Developed an interactive Financial Dashboard in Power BI to analyze revenue, pro
 A comprehensive interactive Power BI dashboard designed to analyze global sales, profit, and product performance metrics across multiple segments and countries.
 
 ##  Live Dashboard Preview
-![Financial Dashboard](https://github.com)
+![Financial Dashboard](Images)
 
 ## Project Overview
 This project transforms raw transactional data into actionable financial intelligence. It enables executives and stakeholders to track key performance indicators (KPIs), identify top-performing regions, and understand product-level profitability.
